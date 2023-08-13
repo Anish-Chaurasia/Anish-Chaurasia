@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Anish Chaurasia</h1>
 <h3 align="center">I am Passionate Web Developer</h3>
 <!-- <img align="right" width="400" alt="web development" src="https://s3.ap-south-1.amazonaws.com/rzp-prod-merchant-assets/payment-link/description/developer_k02jzrgohphqyu.gif"> -->
-<img  height="500" width="1000" alt="web development" src="https://media.licdn.com/dms/image/D4D12AQEwYz74Mf7XKA/article-cover_image-shrink_600_2000/0/1677431973169?e=2147483647&v=beta&t=XAXpJxyem6V0COVr2qwSxPLctoigzjSXhAa4PSHczMI">
+<img  height="400" width="1000" alt="web development" src="https://media.licdn.com/dms/image/D4D12AQEwYz74Mf7XKA/article-cover_image-shrink_600_2000/0/1677431973169?e=2147483647&v=beta&t=XAXpJxyem6V0COVr2qwSxPLctoigzjSXhAa4PSHczMI">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anish-chaurasia&label=Profile%20views&color=0e75b6&style=flat" alt="anish-chaurasia" /> </p>
 
